@@ -1,9 +1,9 @@
-<h1>Weather Forcasting App <\h1>
-
-o Html
-o Bootstrap 
-o Ajax
-o Jquery
+<h1>Weather Forcasting App </h1>
+<br>
+o Html<br>
+o Bootstrap<br> 
+o Ajax<br>
+o Jquery<br>
 
 <h1>Output Screenshots</h1>
 <img width="1440" alt="Screenshot 2022-11-05 at 6 28 11 AM" src="https://user-images.githubusercontent.com/95617382/200095054-3cbe3ff5-e5a9-4156-816d-ed9019354e42.png">
