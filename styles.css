@@ -1,0 +1,18 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1535025075092-5a1cf795130b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2946&q=80');
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .title-text {
+    text-align: center;
+  }
+  
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+  }
+  
